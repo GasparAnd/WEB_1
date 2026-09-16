@@ -36,6 +36,12 @@ Além das atividades principais, este repositório também possui exercícios ex
 | **Exercício 01** | [📁 Repo](https://github.com/GasparAnd/Exercicio-Web) | [🌐 Página](https://gasparand.github.io/Exercicio-Web/) |
 
 
+|     Exercício    |                      Repositório                      |                          Página                         |
+| :--------------: | :---------------------------------------------------: | :-----------------------------------------------------: |
+| **Exercício 02** | [📁 Repo](https://github.com/GasparAnd/Exercicio2_Web) | [🌐 Página](https://gasparand.github.io/Exercicio2_Web/) |
+
+
+
 ---
 
 ## 🚀 Publicação
