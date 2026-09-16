@@ -35,28 +35,6 @@ Além das atividades principais, este repositório também possui exercícios ex
 | :--------------: | :---------------------------------------------------: | :-----------------------------------------------------: |
 | **Exercício 01** | [📁 Repo](https://github.com/GasparAnd/Exercicio-Web) | [🌐 Página](https://gasparand.github.io/Exercicio-Web/) |
 
----
-
-## 🛠️ Tecnologias
-
-As atividades foram desenvolvidas utilizando tecnologias fundamentais para o desenvolvimento web, como:
-
-* 🌐 **HTML5**
-* 🎨 **CSS3**
-* ⚡ **JavaScript** *(quando utilizado nas atividades)*
-
----
-
-## 🎯 Objetivo
-
-O objetivo deste projeto é registrar e organizar minha evolução durante o estudo de **Desenvolvimento Web**, colocando em prática conceitos de:
-
-* Estruturação de páginas web;
-* Estilização e layouts;
-* Desenvolvimento de interfaces;
-* Interatividade;
-* Organização de projetos;
-* Publicação de páginas utilizando **GitHub Pages**.
 
 ---
 
