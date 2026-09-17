@@ -52,7 +52,7 @@ As páginas das atividades estão hospedadas utilizando o **GitHub Pages**, perm
 
 ## 👨‍💻 Autor
 
-**Andresson Viana Gaspar**
+**Andresson Viana Gaspar** **S4 T2 **
 
 🎓 Estudante de Tecnologia da Informação
 💻 Desenvolvedor em formação
