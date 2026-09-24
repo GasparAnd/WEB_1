@@ -18,7 +18,7 @@ Aqui estão reunidos os exercícios práticos realizados ao longo da disciplina,
 |   **06**  |  [📁 Repo](https://github.com/GasparAnd/Web_Atividade6) |  [🌐 Página](https://gasparand.github.io/Web_Atividade6/) |
 |   **07**  |  [📁 Repo](https://github.com/GasparAnd/Web_Atividade7) |  [🌐 Página](https://gasparand.github.io/Web_Atividade7/) |
 |   **08**  |  [📁 Repo](https://github.com/GasparAnd/Web_Atividade8) |  [🌐 Página](https://gasparand.github.io/Web_Atividade8/)|
-|   **09**  |  [📁 Repo](https://github.com/GasparAnd/Web_Atividade9) |  [🌐 Página](https://gasparand.github.io/Web_Atividade9/) |
+|   **09**  |  [📁 Repo](https://github.com/GasparAnd/Web_Atividade9) |  [🌐 Página](https://gasparand.github.io/Web_Atividade9//) |
 |   **10**  | [📁 Repo](https://github.com/GasparAnd/Web_Atividade10) | [🌐 Página](https://gasparand.github.io/Web_Atividade10/) |
 |   **11**  | [📁 Repo](https://github.com/GasparAnd/Web_Atividade11) | [🌐 Página](https://gasparand.github.io/Web_Atividade11/) |
 |   **12**  | [📁 Repo](https://github.com/GasparAnd/Web_Atividade12) | [🌐 Página](https://gasparand.github.io/Web_Atividade12/) |
